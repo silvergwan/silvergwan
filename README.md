@@ -15,7 +15,7 @@
  
 
 ## 기술
-Node.js (Express, NestJS), Typescript, React, Python, Next.js, GCP(Cloud Run), Railway, Vercel
+Node.js (Express, NestJS), Typescript, React, Python, Next.js, GCP(Cloud Run), Railway, Vercel-ServerLess
 
 ## 연락
 - Email : silvergwan@gmail.com
