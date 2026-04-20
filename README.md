@@ -18,6 +18,6 @@
 Node.js (Express, NestJS), Typescript, React, Python, Next.js, GCP(Cloud Run), Railway, Vercel-ServerLess
 
 ## 연락
+- LinkedIn : [Eungwan Choi](https://www.linkedin.com/in/silvergwan/)
 - Email : silvergwan@gmail.com
 - velog : [노스택개발자](https://velog.io/@eungwanny/posts)
-- LinkedIn : [Eungwan Choi](https://www.linkedin.com/in/silvergwan/)
