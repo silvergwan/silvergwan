@@ -15,7 +15,7 @@
  
 
 ## 기술
-Node.js (Express, NestJS), Typescript, React, Python, Next.js, GCP(Cloud Run), Railway, Vercel-Serverless
+Node.js (Express, NestJS), Typescript, React, Python, Next.js, MongoDB Atlas, Mongoose, Docker, GCP(Cloud Run), Railway, Vercel, AWS(EC2), Github Actions 
 
 ## 연락
 - LinkedIn : [Eungwan Choi](https://www.linkedin.com/in/silvergwan/)
